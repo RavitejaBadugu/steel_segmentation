@@ -1,0 +1,5 @@
+outs:
+- md5: 34421142f4a135b05461fe4b34f68fdd.dir
+  size: 147265320
+  nfiles: 1
+  path: steel_segmentaion_model

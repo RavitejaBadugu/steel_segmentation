@@ -1,0 +1,5 @@
+outs:
+- md5: 10b223c3815692aeabd0fd5c63ba32f4.dir
+  size: 156110717
+  nfiles: 3
+  path: dense_unet_tf

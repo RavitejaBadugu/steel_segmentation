@@ -1,0 +1,5 @@
+outs:
+- md5: a57ddc9175f115a0aa7567ad91819f82
+  size: 132268664
+  path: steel_segmentaion_model.zip
+  isexec: true
