@@ -58,7 +58,7 @@ def mask_2_rle(name,mask,threshold=0.5):
 
 def get_prediction(image_bytes):
     patches=load_image(image_bytes)
-    predictions=load_model('http://serving:8502/v1/models/segmentation_model:predict',patches)
+    predictions=load_model('http://tf_serving:8501/v1/models/segmentation_model:predict',patches)
     masks=combined_masks(predictions)
     rle=mask_2_rle('temp_image',masks,0.1)
     return rle
