@@ -3,6 +3,8 @@ The data is taken from https://www.kaggle.com/c/severstal-steel-defect-detection
 
 The metric used is Dice coefficient. The data has images which can be part of no classes, 1 class or multiple classes.
 
+My private score is 0.84898.
+
 **I used dvc for data versioing and model tracking.**
 
 **segmentation_models library is used for training model because it contains pre-trained models as encoder.**
