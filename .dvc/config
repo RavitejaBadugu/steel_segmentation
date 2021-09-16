@@ -1,2 +1,6 @@
+[core]
+    remote = gdive_remote
 ['remote "gdrive"']
     url = ../1MzO9kTnlp9N3V9MlAF5PzCQQzZirnADs
+['remote "gdive_remote"']
+    url = gdrive://1MzO9kTnlp9N3V9MlAF5PzCQQzZirnADs
