@@ -1,5 +1,5 @@
 # steel_segmentation
-The data is taken from https://www.kaggle.com/c/severstal-steel-defect-detection competition.
+The data is taken from https://www.kaggle.com/c/severstal-steel-defect-detection competition. The training script is in kaggle and training is done in aws.
 
 The metric used is Dice coefficient. The data has images which can be part of no classes, 1 class or multiple classes.
 
